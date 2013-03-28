@@ -1,0 +1,12 @@
+For the PM related information on the eKB. 
+
+Have the following in the feature:
+Content types
+	-pm_doc
+	-pm_news
+Views
+	-pm-files
+Role
+	-PM worker
+
+I thought I add menus/blocks through Features, but wasn't able to find PM Links

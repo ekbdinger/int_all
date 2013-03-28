@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_trainers_list.features.inc');

@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_security_attr.features.inc');

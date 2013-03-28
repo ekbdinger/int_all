@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_devices_panel.features.inc');

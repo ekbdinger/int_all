@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_user_dir.features.inc');

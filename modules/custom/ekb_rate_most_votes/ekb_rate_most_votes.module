@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb_rate_most_votes.features.inc');
